@@ -27,7 +27,7 @@ update_config=1
 # Ad-hoc network if it can't find a WiFi connection.
 #####
 network={
-    ssid="CoderConfig"
+    ssid="rowBot"
     mode=1
     key_mgmt=NONE
     id_str="staticadhoc"
